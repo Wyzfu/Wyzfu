@@ -1,11 +1,11 @@
 ### ༼ つ ◕_◕ ༽つ HEYO!
 
--👾 Estudando Sistem de Informações
+-👾 Estudando Sistema de Informações
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wyzfu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyzfu&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Wyzfu&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyzfu&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   
   <div> 
